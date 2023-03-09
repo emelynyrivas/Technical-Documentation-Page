@@ -1,5 +1,8 @@
 # Technical-Documentation-Page
 
-basic html and css frame work.
+Basic html and css frame work
 
-click this link to view the project.
+Click on the side bar to jumo to different parts of the page.
+
+Click this link to view the project: 
+https://emelynyrivas.github.io/Technical-Documentation-Page/
